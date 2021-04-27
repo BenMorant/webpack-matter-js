@@ -1,6 +1,7 @@
-# a dummy JS frontend
+# a JS frontend built with webpack, with a little matter.js script
 
-based upon [Robin Wieruch's tutorials](https://www.robinwieruch.de/) , \
+based upon [Robin Wieruch's tutorials](https://www.robinwieruch.de/) and \
+[Red Stapler tutorial](https://www.youtube.com/watch?v=PsL3iI61wl8&t=1s) \
 with :
 
 - webpack
